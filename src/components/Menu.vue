@@ -49,6 +49,7 @@ export default {
 <style scoped lang="sass">
 .menu-container
     min-width: 230px
+    width: 230px
     background: #fff
     border-right: solid #00000030 1px
     padding: 10px
